@@ -1,0 +1,712 @@
+  [
+    {
+      "ID": "01",
+      "Betrieb": "Fischhandel Meeresbrise",
+      "Adresse": "Bremer Str. 45, 24143 Kiel",
+      "Telefon": "0431 12345678",
+      "Ansprechperson": "Otto Hansen",
+      "Spalte1": "Ein Wert",
+      "Spalte2": "Ein Wert",
+      "Spalte3": "Ein Wert",
+      "Value": "6.5",
+      "Summary": "<div><p>Die Analyse für den \"Fischhandel Meeresbrise\" integriert verschiedene Datenquellen, um ein umfassendes Bild zu erstellen. Dabei werden die Informationen aus der Gewerbeanmeldung (20% Gewichtung), den behördlichen Kontrollberichte (70% Gewichtung) und den Onlinebewertungen (10% Gewichtung) berücksichtigt, mit einem besonderen Fokus auf die Hygienestandards.</p><p>Bezüglich der Gewerbeanmeldungsinformationen wird deutlich, dass es sich um ein etabliertes Einzelunternehmen handelt, das seit 2003 besteht und durch zwei Mitarbeiter unterstützt wird. Dies lässt auf eine gewisse Erfahrung im Bereich des Lebensmittelhandels schließen.</p><p>Die behördlichen Kontrollberichte zeigen jedoch ein gemischtes Bild. Der erste Bericht enthüllte gravierende Mängel, wie eine unterbrochene Kühlkette und Unzulänglichkeiten im HACCP-Konzept. Die darauf folgenden Berichte zeigten zwar Verbesserungen, aber auch die Notwendigkeit weiterer Schulungen und kleinere Mängel im Lagerraum. Diese Entwicklung weist darauf hin, dass der Betrieb auf die Kritik reagiert und sich um Verbesserungen bemüht, aber weiterhin kontinuierliche Aufmerksamkeit für die Aufrechterhaltung und Verbesserung der Hygienestandards benötigt.</p><p>Die Onlinebewertungen auf Google zeigen insgesamt eine hohe Kundenzufriedenheit mit einer durchschnittlichen Bewertung von 4,8 aus 150 Bewertungen. Dies deutet auf eine gute allgemeine Wahrnehmung des Betriebs hin. Allerdings sind die negativen Bewertungen, die hygienische Bedenken und Unzufriedenheit mit der Produktqualität zum Ausdruck bringen, besorgniserregend. Diese Bewertungen, insbesondere die Schilderung hygienischer Mängel, stehen im Widerspruch zu den insgesamt positiven Kontrollberichten und bedürfen einer genaueren Untersuchung und Reaktion seitens des Betriebs.</p><p>Die Zusammenfassung der Daten zeigt, dass \"Fischhandel Meeresbrise\" in einigen Bereichen gut abschneidet, insbesondere im Hinblick auf die Kundenzufriedenheit und die Reaktion auf frühere Kritikpunkte. Dennoch heben die Onlinebewertungen und die fortgesetzten kleineren Mängel in den Kontrollberichten die Notwendigkeit hervor, die Hygienestandards konsequent einzuhalten und das Personal regelmäßig zu schulen. Insgesamt kann dem Betrieb eine Note \"befriedigend bis gut\" gegeben werden.</p></div>",
+      "Gewichtung": [23.33, 23.33, 23.33, 20, 10],
+      "Labels": ["Kontrollbericht vom 22.03.2022", "Kontrollbericht vom 22.04.2023", "Kontrollbericht vom 19.07.2023", "Gewerbeanmeldedaten",  "Online-Bewertungen & -Beschwerden"],
+      "DatensatzGesamt": {
+        "Betrieb": "Fischhandel Meeresbriese",
+        "buttonText": "Übersicht der Datengewichtung",
+        "GesamtRisikoWert": "6.5",
+        "EinzelRisikoWert": ["9.1","6.3","6.9","6.2","5.1"],
+        "dropdownText":
+          {
+            "Text1": "Die Untersuchung zeigte deutlich, dass die fortwährenden und sorgfältigen Kontrollmaßnahmen maßgeblich zur Steigerung der hygienischen Standards im Unternehmen beigetragen haben. Es wurde ein klarer, positiver Zusammenhang zwischen der Intensivierung der Überwachungsprozesse und der signifikanten Verbesserung der hygienischen Bedingungen innerhalb des Betriebs festgestellt.",
+            "Text2": "3 Betriebskontrollen in den letzten 12 Monaten",
+            "Text3": "mehrere Rezenssionen von Bewertungsportalen und Social Media",
+            "Text4": "Gewerbeanmeldedaten"
+          }
+        
+      },
+      "Datensaetze": [
+        {
+          "buttonText": "Kontrollbericht vom 22.03.2022",
+          "Datenquelle": "Kontrollbericht vom 22.03.2022",
+          "IndividualRiskScore": "8.1",
+          "Standardexpertenwertung": "sehr hoch",
+          "QuellenText1": "Kontrollzweck: planmäßige Routinekontrolle am 22.03.2022.",
+          "QuellenText2": "Verkaufsraum & Kühltheke:",
+          "QuellenText3": "Technischer Defekt in der Kühlkette: Unterbrechung der Kühlkette im Verkaufsraum für unbekannte Dauer",
+          "QuellenText4": "Anordnung der Reparatur der Kühlgeräte und entsorgung der betroffenen Lebensmittel.",
+          "QuellenText5": "Anzeichen für Feuchtigkeit und Schimmel in einigen Bereichen der Kühltheke",
+          "QuellenText6": "Umgehende Reinigung und Desinfektion der gesamten Kühltheke wurde angeordnet",
+          "QuellenText7": "Mangelhafte Umsetzung des HACCP-Konzepts: Fehlende nachweisbare Dokumentationen kritischer Kontrollpunkte.",
+          "QuellenText8": "Anordnung zur Implementierung eines vollständigen HACCP-Konzepts "
+        },
+        {
+          "buttonText": "Kontrollbericht vom 22.04.2023",
+          "Datenquelle": "Kontrollbericht vom 22.04.2023",
+          "IndividualRiskScore": "8.1",
+          "Standardexpertenwertung": "sehr hoch",
+          "QuellenText1": "Kontrollzweck: Nachkontrolle vom 22.03.2022.",
+          "QuellenText2": "Betriebsstätte (allgemein):",
+          "QuellenText3": "Verbesserung des HACCP-Konzepts im Fischladen",
+          "QuellenText4": "Angemessene Gefahrenanalyse in der Dokumentation",
+          "QuellenText5": "Präzise Überwachungsverfahren für kritische Kontrollpunkte",
+          "QuellenText6": "Verstärkte Protokollierung der Kühltemperaturen",
+          "QuellenText7": "bisher keine Umsetzung der Schulung der Mitarbeiter im Bereich Lebensmittelhygiene",
+          "QuellenText8": "Anordnung einer zeitnahen Schulung der Mitarbeiter"
+        },
+        {
+          "buttonText": "Kontrollbericht vom 19.07.2023",
+          "Datenquelle": "Kontrollbericht vom 19.07.2023",
+          "IndividualRiskScore": "7.7",
+          "Standardexpertenwertung": "sehr hoch",
+          "QuellenText1": "Kontrollzweck: planmäßige Routinekontrolle am 19.07.2023.",
+          "QuellenText2": "Lagerraum:",
+          "QuellenText3": "Leichte Ablagerungen an den Regalen wurden festgestellt",
+          "QuellenText4": "Anordnung der Reinigung und Desinfektion der betroffenen Bereiche",
+          "QuellenText5": null,
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Gewerbeanmeldedaten",
+          "Datenquelle": "Gewerbeanmeldung",
+          "IndividualRiskScore": "5.6",
+          "Standardexpertenwertung": "mittel",
+          "QuellenText1": "Anmeldung erfolgte am 01.10.2003.",
+          "QuellenText2": "Lebensmittelhandel, Lieferdienst:",
+          "QuellenText3": "Verarbeitung und Verkauf von leicht verdeblichen Lebensmitteln",
+          "QuellenText4": "Transport verderblicher Produkte",
+          "QuellenText5": null,
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Online-Bewertungen & -Beschwerden",
+          "Datenquelle": "diverser Online-Bewertungen & -Beschwerden",
+          "IndividualRiskScore": "4.5",
+          "Standardexpertenwertung": "niedrig",
+          "QuellenText1": "Es wurden anonyme Bewertungen auf Facebook, Google und Yelp gefunden.",
+          "QuellenText2": "mögicher Hygienemangel aufgrund einer Mitarbeiterin, die nach Geldkontakt ohne Handschuhwechsel Nahrungsmittel anfasste",
+          "QuellenText3": "Möglicher Betrug durch unangemessenem Majonäse-Krabben-Verhältnis im Krabbensalat",
+          "QuellenText4": "Gemischtes Feedback zur Produktqualität",
+          "QuellenText5": null,
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        }
+        
+      ],
+      "AllData": [
+        
+        {
+          "Datenquelle": "Datenquelle Betriebskontrolle 1",
+          "DatenquelleSummery": "<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h4>Kontrollbericht Nr. 1</h4><p><strong>Betrieb:</strong> Fischhandel Meeresbrise</p><p><strong>Kontrolldatum:</strong> 22.03.2022</p><p><strong>Kontrollobjekt:</strong> ID-9834-KL</p><p><strong>Kontrollzweck:</strong> planmäßige Routinekontrolle am: 22.03.2022</p><p><strong>Kontrollierte Räume/Bereiche:</strong> Betriebsstätte (allgemein), Küche, Verkaufsraum</p><p><strong>Nicht kontrollierte Räume/ Bereiche:</strong> Personalumkleide, Kühllager</p><p><strong>HACCP-Konzept:</strong> nicht vorhanden</p><h5><strong>Feststellungen:</strong></h5><p><strong>Verkaufsraum:</strong></p><ul><li><p><strong>Feststellung:</strong> Die Kühlkette war aufgrund eines technischen Defekts im Verkaufsraum für eine unbekannte Dauer unterbrochen. Diese Unterbrechung hatte zur Folge, dass die Temperatur der kühlbedürftigen Produkte nicht durchgehend den gesetzlichen Vorschriften entsprach.</p><p><strong>Anordnung:</strong> Es ist dringend erforderlich, die Kühlgeräte umgehend zu reparieren, um die Qualität und Sicherheit der angebotenen Lebensmittel zu gewährleisten. Verdorbene Produkte sind umgehend zu entsorgen.</p></li><li><p><strong>Feststellung:</strong> Anzeichen von Feuchtigkeit und Schimmelbildung in einigen Bereichen der Kühltheke</p><p><strong>Anordnung:</strong> Umgehende Reinigung und Desinfektion der gesamten Kühltheke</p></li><li><p><strong>Feststellung:</strong> Das HACCP-Konzept des Betriebs ist nicht vollständig umgesetzt. Es fehlen nachweisbare Dokumentationen kritischer Kontrollpunkte, was ein signifikantes Risiko für die Lebensmittelsicherheit darstellt.</p><p><strong>Anordnung:</strong> Die Implementierung eines vollständigen HACCP-Konzepts</p></li></ul><p><strong>Weitere Informationen:</strong></p><ul><li>Es wurden Lichtbilder wurden angefertigt, Merkblätter ausgehändigt & Proben entnommen</li></ul></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "fischKontrolle1.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle Betriebskontrolle 2",
+          "DatenquelleSummery": "<div>\n <p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p>\n <h4>Kontrollbericht Nr. 2</h4>\n <p><strong>Betrieb:</strong> Fischhandel Meeresbrise</p>\n <p><strong>Kontrolldatum:</strong> 22.04.2023</p>\n <p><strong>Kontrollobjekt:</strong> ID-9834-KL</p>\n <p><strong>Kontrollzweck:</strong> Nachkontrolle nach vorheriger Kontrolle am: 22.03.2023</p>\n <p><strong>Kontrollierte Räume/Bereiche:</strong> Kühllager, Lagerraum, Verkaufsraum</p>\n <p><strong>Nicht kontrollierte Räume/Bereiche:</strong> Nicht spezifiziert</p>\n <p><strong>HACCP-Konzept:</strong> größtenteils umgesetzt</p>\n <ul>\n <li>Es fehlten: Ausbildung/Schulung Personal; Zusammensetzung- nicht mikrob.</li>\n </ul>\n <h5><strong>Feststellungen:</strong></h5>\n <p><strong>Betriebsstätte (allgemein):</strong></p>\n <ul>\n <li>\n <p><strong>Feststellung:</strong> Nachkontrolle stellte fest, dass das HACCP-Konzept signifikant verbessert wurde. Die Dokumentation weist nun eine angemessene Gefahrenanalyse auf, und für alle kritischen Kontrollpunkte wurden präzise Überwachungsverfahren etabliert. Dies umfasst eine verstärkte Protokollierung der Kühltemperaturen. Die Einführung regelmäßiger Schulungen für das Personal im Bereich der Lebensmittelhygiene muss noch umgesetzt werden.</p>\n <p><strong>Anordnung:</strong> Zeitnahe Schulung der Mitarbeiter ist zu vollziehen.</p>\n </li>\n </ul>\n <p><strong>Weitere Informationen:</strong></p>\n <ul>\n <li>Proben wurden entnommen ☑</li>\n <li>Die Beseitigung vorgenannter Mängel ist der Überwachungsbehörde Kiel bis zum 29.03.2023 schriftlich anzuzeigen. ☑</li>\n </ul>\n</div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "fischKontrolle2.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle Betriebskontrolle 3",
+          "DatenquelleSummery": "<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h4>Kontrollbericht Nr. 3</h4><p><strong>Betrieb:</strong> Fischhandel Meeresbrise</p><p><strong>Kontrolldatum:</strong> 19.07.2023</p><p><strong>Kontrollobjekt:</strong> ID-9834-KL</p><p><strong>Kontrollzweck:</strong> Planmäßige Routinekontrolle</p><p><strong>Kontrollierte Räume/Bereiche:</strong> Lagerraum, Verkaufsraum, Kühllager, Mitarbeiterumkleide</p><p><strong>Nicht kontrollierte Räume/Bereiche:</strong> -</p><p><strong>HACCP-Konzept:</strong> war vollständig umgesetzt</p><h5><strong>Feststellungen:</strong></h5><p><strong>Lagerraum:</strong></p><ul><li><p><strong>Feststellung:</strong> Leichte Ablagerungen an den Regalen festgestellt</p><p><strong>Anordnung:</strong> Reinigung und Desinfektion der betroffenen Bereiche.</p></li></ul></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "fischKontrolle3.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle Gewerbeanmeldedaten",
+          "DatenquelleSummery": "<div>\n  <p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p>\n\n  <h5>Zusammenfassung der Gewerbeanmeldung für „Fischhandel Meeresbrise“</h5>\n  <ul>\n    <li><strong>Name des Unternehmens:</strong> Fischhandel Meeresbrise</li>\n    <li><strong>Betriebsinhaber:</strong> Otto Hansen</li>\n    <li><strong>Telefon:</strong> 0431 12345678</li>\n    <li><strong>Handy:</strong> 0176 987654321</li>\n    <li><strong>Betriebsadresse:</strong> Bremer Straße 45, 24143 Kiel</li>\n  </ul>\n\n  <p><strong>Betriebsinformationen:</strong></p>\n  <ul>\n    <li><strong>Tätigkeit:</strong> Verkauf von Fisch, Meeresfrüchten, Herstellung von div. Fischspezialitäten, Lieferung von kalten Platten</li>\n    <li><strong>Art des Betriebs:</strong> Lebensmittelhandel, Lieferdienst</li>\n    <li><strong>Beginn:</strong> 01.10.2003</li>\n    <li><strong>Mitarbeiter:</strong> 1 Vollzeit, 1 Teilzeit (ohne Inhaber)</li>\n  </ul>\n</div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "fischGewerbe.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle: Online-Bewertungen & -Beschwerden",
+          "DatenquelleSummery": "<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h5>Zusammenfassung der Bewertungen für Fischhandel Meeresbriese:</h5><ul><li><p><strong>Schlechte Bewertung #1 (1 von 5 Sternen):</strong> Kritik an mangelnder Hygiene. Beanstandet wurde, dass eine blonde Frau mit blauen Handschuhen Geld anfasste, sich damit in den Mund ging und anschließend ohne Handschuhwechsel das Essen berührte und aushändigte.</p></li><li><p><strong>Schlechte Bewertung #2 (1 von 5 Sternen):</strong> Unzufriedenheit mit dem Krabbensalat. Der Kunde fand das Verhältnis von Majonäse zu Krabben im Salat unangemessen hoch und empfand den Preis als zu teuer, was zu der Entscheidung führte, nicht mehr dort einzukaufen.</p></li><li><p><strong>Mittelmäßige Bewertung #3 (3 von 5 Sternen):</strong> Gemischtes Feedback. Positiv bewertet wurde die Auswahl an Fischen und Meeresfrüchten, insbesondere die Qualität der Garnelen. Jedoch gab es Bedenken bezüglich der Frische des Lachses, dessen Geschmack als akzeptabel, aber nicht herausragend beschrieben wurde.</p></li></ul><p>Es gab keine Rezensionen oder Beschwerden über den Fischhandel Meeresbriese auf Social-Media-Kanälen.</p></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "fischOnline.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        }
+      ],
+      "Datenqualität": {
+
+        "Vollständigkeit": "Nach sorgfältiger Überprüfung aller relevanten Informationen und Quellen lässt sich feststellen, dass die Datenlage als umfassend und vollständig betrachtet werden kann, was eine solide Grundlage für weitere Analysen bietet.",
+        "Genauigkeit": "Die Analyse der Kundenfeedbacks hat eine Übereinstimmung aufgezeigt: Einige wenige negative Kundenbewertungen spiegeln sich konsistent in den Ergebnissen der Kontrollberichte wider. Dies deutet auf eine hohe Genauigkeit und Verlässlichkeit der Daten hin.",
+        "Zuverlässigkeit": "Bei der Beurteilung der Zuverlässigkeit der Datenquellen „Onlinebewertungen“ und „Beschwerden aus der Bevölkerung“ bestehen gewisse Unsicherheiten. Diese Quellen können subjektiven Verzerrungen unterliegen, was die Konsistenz und Verlässlichkeit der Daten potenziell beeinträchtigt.",
+        "Aktualität": "Bei der Überprüfung der Datenbestände zeigt sich, dass sie auf dem neuesten Stand sind. Die Informationen wurden regelmäßig und zeitnah aktualisiert, was sicherstellt, dass die Daten aktuell und relevant sind.",
+        "VollständigkeitColor": "#41b783",
+        "GenauigkeitColor": "#41b783",
+        "ZuverlässigkeitColor": "#fdd31b",
+        "AktualitätColor": "#41b783",
+        "GesamtColor": "#41b783"
+
+      }
+    },
+    {
+      "ID": "03",
+      "Betrieb": "Pizza Perfetto",
+      "Adresse": "Hauptstraße 1, 24143 Kiel",
+      "Telefon": "0431 12345678",
+      "Ansprechperson": "Giovanni Bianchi",
+      "Spalte1": "Ein Wert",
+      "Spalte2": "Ein Wert",
+      "Spalte3": "Ein Wert",
+      "Value": "5.5",
+      "Summary": "<p>Die Pizzeria \"Pizza Perfetto\" hat in verschiedenen Bereichen Verbesserungspotenzial, wie aus der Analyse von behördlichen Kontrollberichten, Kundenbewertungen und einer eingegangenen Beschwerde hervorgeht. Diese Faktoren tragen unterschiedlich zur Gesamtbewertung bei.</p>\n\n<p>Die behördlichen Kontrollberichte, die mehr als die Hälfte der Analysegewichtung ausmachen, haben einige Verbesserungsbedarfe in Bereichen wie der Küche, dem Lager und dem Kühlraum aufgezeigt. Auch wenn Mängel in der Trennung von Rohwaren und Fertiggerichten sowie in der Abfallentsorgung und Reinigung festgestellt wurden, sind dies Bereiche, in denen mit gezielten Maßnahmen relativ schnell Verbesserungen erzielt werden können.</p>\n\n<p>Eine direkt bei der Behörde eingegangene Beschwerde, die einen kleineren Anteil der Analyse ausmacht, spiegelt einige der in den Kontrollberichten identifizierten Probleme wider. Anmerkungen zur Hygiene und zur Qualität der Lebensmittelzutaten weisen auf Bereiche hin, in denen die Pizzeria ihre Standards anheben könnte.</p>\n\n<p>Die Gewerbeanmeldung der Pizzeria zeigt keine außergewöhnlichen Auffälligkeiten, und die Online-Bewertungen, die einen kleineren Teil der Analyse ausmachen, enthalten gemischte Rückmeldungen zur Speisenqualität und zum Lieferdienst. Diese Bewertungen deuten darauf hin, dass es neben den festgestellten Mängeln auch positive Aspekte im Betrieb gibt.</p>\n\n<p>Es ist erwähnenswert, dass trotz der identifizierten Hygieneprobleme keine Krankheitsfälle gemeldet wurden. Dies könnte auf eine mögliche Unterberichterstattung oder auf kürzliche Verbesserungen hinweisen. Es fehlen jedoch aktuelle Daten zu von der Kontrollbehörde angeordneten Verbesserungen und Routinenkontrollen der letzten Jahre, was eine vollständige Bewertung erschwert.</p>\n\n<p>Insgesamt zeigt \"Pizza Perfetto\" einige Schwächen in den Bereichen Hygiene und Kundenzufriedenheit. Während die wiederholten negativen Bewertungen und Mängel in den Kontrollberichten die Gesamtbewertung beeinträchtigen, deutet das Fehlen von Krankheitsfällen und die gemischten Online-Bewertungen darauf hin, dass die Situation nicht ausschließlich negativ ist und es Raum für Verbesserungen gibt.</p>",
+      "Gewichtung": [28, 28, 19, 15, 10],
+      "Labels": ["Kontrollbericht vom 03.05.2018", "Kontrollbericht vom 02.08.2018", "Gewerbeanmeldedaten", "Beschwerde aus der Bevölkerung", "Online-Bewertungen & -Beschwerden"],
+      "DatensatzGesamt": {
+        "Betrieb": "Pizza Perfetto",
+        "buttonText": "Übersicht der Datengewichtung",
+        "GesamtRisikoWert": "5.5",
+        "EinzelRisikoWert": ["1.1","7.5","3.8","9.2","5.5"],
+        "dropdownText":
+          {
+            "Text1": "Es konnte ein Zusammenhang zwischen den Inhalten des Kontrollberichts vom 02.08.2018 und dem Inhalt der in der Behörde eingegangenen Beschwerde vom 04.09.2018 festgestellt werden. Die Analyse der zeitlichen Abfolge der Kontrolle am 02.08.2018 und dem Eingang der Beschwerde deutet darauf hin, dass evtl. beseitigte Mängel wieder aufgetreten sind. Daten zur angekündigten Nachkontrolle sind nicht vorhanden.",
+            "Text2": "2 Betriebskontrollen in den letzten 5 Jahren",
+            "Text3": "1 direkt bei der Behörde eingegange Beschwerde",
+            "Text4": "mehrere Rezenssionen von Bewertungsportalen und Social Media"
+          }
+        
+      },
+      "Datensaetze": [
+        {
+          "buttonText": "Kontrollbericht vom 03.05.2018",
+          "Datenquelle": "Kontrollbericht vom 03.05.2018",
+          "IndividualRiskScore": "8.1",
+          "Standardexpertenwertung": "sehr hoch",
+          "QuellenText1": "Kontrollzweck: planmäßige Routinekontrolle am 03.05.2018.",
+          "QuellenText2": "Betriebsküche und Lagerraum:",
+          "QuellenText3": "Starke Verunreinigung aller Geräte und Oberflächen.",
+          "QuellenText4": "Anordnung einer sofortigen, gründlichen Reinigung und Desinfektion.",
+          "QuellenText5": "Lebensmittelsicherheit:",
+          "QuellenText6": "Massive hygienische Mängel.",
+          "QuellenText7": "Eine Gesundheitsgefährdung der Verbraucher*innen kann nicht ausgeschlossen werden.",
+          "QuellenText8": "Anordnung einer sofortigen, gründlichen Reinigung und Desinfektion."
+        },
+        {
+          "buttonText": "Kontrollbericht vom 02.08.2018",
+          "Datenquelle": "Kontrollbericht vom 02.08.2018",
+          "IndividualRiskScore": "7.7",
+          "Standardexpertenwertung": "sehr hoch",
+          "QuellenText1": "Kontrollzweck: planmäßige Routinekontrolle am 02.08.2023.",
+          "QuellenText2": "Betriebsstätte (allgemein) und Betriebsküche:",
+          "QuellenText3": "Mangelnde Hygiene beim Handtrocknen",
+          "QuellenText4": "Unzureichende Abfallentsorgung in der Küche",
+          "QuellenText5": "Lebensmittelsicherheit:",
+          "QuellenText6": "Verschmutzung diverser Stellen in der Küche",
+          "QuellenText7": "unzureichender Trennung von Rohwaren und fertigen Speisen",
+          "QuellenText8": "Unangemessene Lagerung von Lebensmitteln im Kühlraum"
+        },
+        {
+          "buttonText": "Gewerbeanmeldedaten",
+          "Datenquelle": "Gewerbeanmeldung",
+          "IndividualRiskScore": "5.6",
+          "Standardexpertenwertung": "mittel",
+          "QuellenText1": "Anmeldung erfolgte am 05.05.2018.",
+          "QuellenText2": "Gastronomie & Lieferdienst:",
+          "QuellenText3": "Verarbeitung von schnell verdeblichen Lebensmitteln",
+          "QuellenText4": "Transport verderblicher Produkte",
+          "QuellenText5": null,
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Beschwerde aus der Bevölkerung",
+          "Datenquelle": "Beschwerde vom 04.09.2018",
+          "IndividualRiskScore": "6.5",
+          "Standardexpertenwertung": "mittel",
+          "QuellenText1": null,
+          "QuellenText2": "Mäusepräsenz in der Pizzeria",
+          "QuellenText3": "Qualitätsmängel bei Zutaten",
+          "QuellenText4": "Sorge um Sicherheit und Gesundheit",
+          "QuellenText5": "Anfrage an die Lebensmittelkontrollbehörde zur Überprüfung der Einhaltung von Hygiene- und Qualitätsstandards",
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Online-Bewertungen & -Beschwerden",
+          "Datenquelle": "diverser Online-Bewertungen & -Beschwerden",
+          "IndividualRiskScore": "4.5",
+          "Standardexpertenwertung": "niedrig",
+          "QuellenText1": "Es wurden anonyme Bewertungen auf Facebook, Google und Yelp gefunden.",
+          "QuellenText2": "Möglicher Betrug bei Qualität der Pizza:",
+          "QuellenText3": "Die Pizza kam kalt an, hatte wenig Belag und war nicht frisch.",
+          "QuellenText4": "Kundenservice: Der Kunde wurde am Telefon abgewimmelt, als er versuchte, das Problem zu melden.",
+          "QuellenText5": "Preis-Leistungs-Verhältnis wird mehrmals bemängelt.",
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        }
+        
+      ],
+      "AllData": [
+           
+        {
+          "Datenquelle": "Datenquelle: Betriebskontrolle 1",
+          "DatenquelleSummery": "<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h4>Kontrollbericht Nr. 1</h4><p><strong>Betrieb:</strong> Pizza Perfetto</p><p><strong>Kontrolldatum:</strong> 3.05.2018</p><p><strong>Kontrollobjekt:</strong> ID-6482-KL</p><p><strong>Kontrollzweck:</strong> planmäßige Routinekontrolle</p><p><strong>Kontrollierte Räume/Bereiche:</strong> Betriebsstätte (allgemein), Küche</p><p><strong>Nicht kontrollierte Räume/ Bereiche:</strong> -</p><p><strong>HACCP-Konzept:</strong> nicht vorhanden</p><h5><strong>Feststellungen:</strong></h5><p><strong>Betriebsküche:</strong></p><ul><li><p><strong>Feststellung:</strong> Starke Verunreinigung aller Geräte und Oberflächen.</p><p><strong>Anordnung:</strong> Raum und alle Geräte und Oberflächen sind unverzüglich zu reinigen.</p></li></ul><p><strong>Lagerraum:</strong></p><ul><li><p><strong>Feststellung:</strong> Starke Verunreinigung aller Geräte und Oberflächen.</p><p><strong>Anordnung:</strong> Raum und alle Geräte und Oberflächen sind unverzüglich zu reinigen.</p></li></ul><p><strong>Weitere Informationen:</strong></p><ul><li>Lichtbilder wurden angefertigt & Probe wurden entnommen</li><li>Die Beseitigung vorgenannter Mängel ist der Überwachungsbehörde Kiel bis zum 15.05.2023 schriftlich anzuzeigen. Andernfalls erfolgt eine kostenpflichtige Nachkontrolle. ☑</li></ul></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "PizzaKontrollberichtNr1.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle: Betriebskontrolle 2",
+          "DatenquelleSummery": "<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h4>Kontrollbericht Nr. 2</h4><p><strong>Betrieb:</strong> Pizza Perfetto</p><p><strong>Kontrolldatum:</strong> 02.08.2023</p><p><strong>Kontrollobjekt:</strong> ID-6482-KL</p><p><strong>Kontrollzweck:</strong> planmäßige Routinekontrolle</p><p><strong>Kontrollierte Räume/Bereiche:</strong> Betriebsstätte (allgemein), Küche</p><p><strong>Nicht kontrollierte Räume/ Bereiche:</strong> -</p><p><strong>HACCP-Konzept:</strong> nicht vorhanden</p><h5><strong>Feststellungen:</strong></h5><p><strong>Personaltoiletten:</strong></p><ul><li><p><strong>Feststellung:</strong> Am Handwaschbecken fehlten Mittel zum hygienischen Händetrocknen (z. B. Einmalpapierhandtücher im Spender).</p><p><strong>Anordnung:</strong> Am Handwaschbecken sind Mittel zum hygienischen Händetrocknen (z. B. Einmalpapierhandtücher im Spender) bereitzuhalten.</p></li></ul><p><strong>Küche:</strong></p><ul><li><p><strong>Feststellung:</strong> Der Abfall wurde nicht so zeitnah wie möglich entfernt, so dass eine Anhäufung dieser Abfälle nicht vermieden wurde, obwohl in diesem Raum mit Lebensmitteln umgegangen wurde.</p><p><strong>Anordnung:</strong> Die Abfälle sind so rasch wie möglich aus Räumen, in denen mit Lebensmitteln umgegangen wird zu entfernen.</p></li><li><p><strong>Feststellung:</strong> Der Fußbodenabfluss war verunreinigt.</p><p><strong>Anordnung:</strong> Der Fußbodenabfluss ist zu reinigen.</p></li><li><p><strong>Feststellung:</strong> Die Küchenwände waren stellenweise verschmutzt.</p><p><strong>Anordnung:</strong> Die Küchenwände sind zu reinigen.</p></li><li><p><strong>Feststellung:</strong> Rohware und fertige Speisen wurden nicht getrennt aufbewahrt.</p><p><strong>Anordnung:</strong> Eine strikte Trennung von Rohware und fertigen Speisen ist sicherzustellen.</p></li></ul><p><strong>Spülküche:</strong></p><ul><li><p><strong>Feststellung:</strong> Die Geschirrspülmaschine war verunreinigt.</p><p><strong>Anordnung:</strong> Die Geschirrspülmaschine ist zu reinigen.</p></li><li><p><strong>Feststellung:</strong> Der Geschirrkorb der Geschirrspülmaschine war verunreinigt.</p><p><strong>Anordnung:</strong> Der Geschirrkorb der Geschirrspülmaschine ist zu reinigen.</p></li><li><p><strong>Feststellung:</strong> Der Dosenöffner war verunreinigt.</p><p><strong>Anordnung:</strong> Der Dosenöffner ist zu reinigen.</p></li></ul><p><strong>Kühlraum:</strong></p><ul><li><p><strong>Feststellung:</strong> Es wurden Lebensmittelbehälter auf dem Boden gelagert, die üblicherweise im Arbeitsprozess auch auf den Arbeitsflächen abgestellt werden. Dadurch bestand die Gefahr, dass sich Keime im weiteren Arbeitsprozess auf Lebensmittel übertragen und diese kontaminieren können.</p><p><strong>Anordnung:</strong> Behälter mit Lebensmitteln dürfen nicht direkt auf dem Fußboden gelagert werden. Es sind geeignete Untergestelle (Rolli, Regale, etc.) dafür einzusetzen.</p></li><li><p><strong>Feststellung:</strong> Der Fußboden war insbesondere in den Rand- und Eckbereichen, sowie unter und hinter den Einrichtungen verunreinigt.</p><p><strong>Anordnung:</strong> Der Fußboden ist zu reinigen.</p></li></ul><h5><strong>Weitere Informationen:</strong></h5><ul><li>Merkblätter wurden ausgehändigt ☑</li><li>Kostenpflichtige Nachkontrolle erfolgt ab / am 12.08.2023 ☑</li></ul></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "PizzaKontrollberichtNr2.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle: Gewerbeanmeldedaten",
+          "DatenquelleSummery": "<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h5>Zusammenfassung der Gewerbeanmeldung für „Pizza Perfetto“</h5><ul><li><strong>Name des Unternehmens:</strong> Pizza Perfetto</li><li><strong>Betriebsinhaber:</strong> Giovanni Bianchi</li><li><strong>Telefon:</strong> 0431 12345678</li><li><strong>Handy:</strong> 0176 987654321</li><li><strong>Betriebsadresse:</strong> Hauptstraße 1, 24143 Kiel</li></ul><p><strong>Betriebsinformationen:</strong></p><ul><li><strong>Tätigkeit:</strong> Herstellung von Pizzen verschiedener Art und Auslieferung der Speisen</li><li><strong>Art des Betriebs:</strong> Gastronomie, Lieferdienst</li><li><strong>Beginn:</strong> 01.10.2017</li><li><strong>Mitarbeiter:</strong> 3 Vollzeit, 3 Teilzeit (ohne Inhaber)</li></ul></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "PizzaGewerbe.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle: Beschwerde aus der Bevölkerung",
+          "DatenquelleSummery": "<div>\n    <p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p>\n    <h4><strong>Zusammenfassung einer direkten Beschwerde:</strong></h4>\n    <ul>\n        <li><strong>Datum der Übermittlung an die Lebensmittelbehörde:</strong> 8. März 2023</li>\n        <li><strong>Betrifft:</strong> Pizzeria \"Pizza Perfetto\" in Kiel</li>\n        <li><strong>Hauptanliegen:</strong>\n            <ul>\n                <li><strong>Unerwünschte Mäusepräsenz in der Pizzeria</strong></li>\n                <li><strong>Nachlassende Qualität der Zutaten, speziell der Salami</strong></li>\n            </ul>\n        </li>\n        <li><strong>Hintergrund:</strong> Der Gast hat diese Mängel bei Besuchen beobachtet und äußert Sorgen um Lebensmittelqualität und -hygiene.</li>\n        <li><strong>Forderung:</strong> Gründliche Überprüfung und Inspektion der Pizzeria durch die Lebensmittelkontrollbehörde.</li>\n        <li><strong>Ziel:</strong> Sicherstellen der Lebensmittelsicherheit und Einhaltung von Hygienestandards.</li>\n        <li><strong>Ton des Schreibens:</strong> Besorgt, höflich, auf Sicherheit und Gesundheit der Kunden bedacht.</li>\n    </ul>\n</div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "PizzaBeschwerde.jpeg",
+              "isEnlarged": false
+            }
+          ] 
+        },
+        {
+          "Datenquelle": "Datenquelle: Online-Bewertungen & -Beschwerden",
+          "DatenquelleSummery": "<div> <p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p> <h5>Zusammenfassung der Bewertungen für Pizza Perfetto:</h5> <ul> <li><p><strong>Schlechte Bewertung #1 (1 von 5 Sternen):</strong> Die Kundenerfahrung war enttäuschend. Probleme umfassten eine verspätete Lieferung, kalte und zähe Pizza, spärlichen Belag, trockenen und geschmacklosen Teig sowie schlechten Kundenservice, einschließlich abweisender Behandlung am Telefon.</p></li> <li><p><strong>Schlechte Bewertung #2 (1 von 5 Sternen):</strong> Ähnlich negative Erfahrung mit kalter Pizza, verrutschtem Belag, gummiartigem Käse, alt und trocken schmeckendem Teig sowie fehlendem Interesse des Lieferboten an der Kundenzufriedenheit und einem zu hohen Preis für die gebotene Qualität.</p></li> <li><p><strong>Mittelmäßige Bewertung #3 (3 von 5 Sternen):</strong> Pünktliche Lieferung, jedoch nur durchschnittliche Qualität der Pizza. Der Belag war ausreichend, der Teig durchschnittlich, insgesamt entsprach es einer Standard Fast-Food Pizza. Der Preis schien im Vergleich zur Qualität etwas hoch.</p></li> </ul> <p><strong>Beschwerde auf Social-Media-Kanälen:</strong></p> <p>Ein langjähriger Kunde äußerte Enttäuschung über eine jüngste Bestellung. Kritikpunkte waren eine verzögerte Lieferung, kalte Pizza mit lieblosem Belag und möglicherweise nicht frische Zutaten. Der Kunde hofft auf eine Rückkehr zur früheren Qualität und Service von Pizza Perfetto.</p> </div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "PizzaOnline.jpeg",
+              "isEnlarged": false
+            }
+          ]        
+        }
+      ],
+      "Datenqualität": {
+
+        "Vollständigkeit": "Fehlende Daten und Unsicherheit: Es fehlen Daten zur Umsetzung der angeordneten Korrekturmaßnahmen und zum tatsächlichen Zustand nach den Kontrollen. Dies erhöht die Unsicherheit in der Prognose.",
+        "Genauigkeit": "Widersprüchliche Daten: Während die Gewerbeanmeldung keine offensichtlichen Mängel zeigt, stehen die behördlichen Kontrollberichte und die Online-Bewertungen im Widerspruch. Die Schwere der festgestellten Mängel und die wenigen Kundenbeschwerden weisen darauf hin, dass entweder die Online-Bewertungen nicht die tatsächlichen Kundenerfahrungen widerspiegeln oder dass die Kunden möglicherweise nicht ausreichend sensibilisiert sind, um die Hygieneprobleme zu erkennen und zu melden.",
+        "Zuverlässigkeit": "Bei der Beurteilung der Zuverlässigkeit der Datenquellen „Onlinebewertungen“ und „Beschwerden aus der Bevölkerung“ bestehen gewisse Unsicherheiten. Diese Quellen können subjektiven Verzerrungen unterliegen, was die Konsistenz und Verlässlichkeit der Daten potenziell beeinträchtigt. ",
+        "Aktualität": "Ein bedeutsames Problem zeigt sich in der Aktualität der Daten, da die jüngsten verfügbaren Kontrollberichte aus dem Jahr 2018 stammen. Diese Lücke im Datenaufkommen könnte schwerwiegende Mängel im Kontrollsystem aufzeigen. Die fehlenden aktuellen Daten könnten dazu führen, dass wichtige, jüngste Veränderungen und Probleme unentdeckt bleiben.",
+        "VollständigkeitColor": "#ED1313",
+        "GenauigkeitColor": "#ED1313",
+        "ZuverlässigkeitColor": "#fdd31b",
+        "AktualitätColor": "#ED1313",
+        "GesamtColor": "#ED1313"
+
+
+      }
+    },
+    {
+      "ID": "04",
+      "Betrieb": "Bäckerei Kornblume",
+      "Adresse": "Gaardener Straße 8, 24143 Kiel",
+      "Telefon": "0431 5678901",
+      "Ansprechperson": "Johann Müller",
+      "Spalte1": "Ein Wert",
+      "Spalte2": "Ein Wert",
+      "Spalte3": "Ein Wert",
+      "Value": "4.7",
+      "Summary": "<div><p>Die Analyse für die Bäckerei \"Kornblume\" basiert auf verschiedenen Datenquellen, wobei die Gewichtung der Daten wie folgt verteilt ist: 50% behördlichen Kontrollberichte, 20% Onlinebewertungen und 30% Gewerbeanmeldungsinformationen.</p><p>Zunächst wurde ein behördlicher Kontrollbericht bewertet, der bei der letzten Inspektion durchschnittliche Mängel festgestellt hat. Insbesondere das Fehlen von HACCP-Verfahren, sowie die unzureichende Kennzeichnung von verpackten Lebensmitteln und das Fehlen eines Thermometers zur Überwachung der Kühlschranktemperatur sind kritische Verstöße, die zeitnah behoben werden sollten.</p><p>Die Gewerbeanmeldungsinformationen zeigen, dass es sich bei dem Betrieb um eine Filiale einer GmbH handelt, die derzeit 6 Mitarbeiter beschäftigt. In letzter Zeit wurde eine erhöhte Fluktuation im Personalbestand des Betriebs, mit mehreren An- und Abmeldungen von Mitarbeitern, festgestellt, was auf einen signifikanten Personalwechsel hindeutet und möglicherweise zu Herausforderungen in der Betriebsführung führt. Aufgrund des häufigen Personalwechsels waren HACCP-Konzept Schulungen möglicherweise erschwert oder konnten gar nicht umgesetzt werden.</p><p>Die Onlinebewertungen sind größtenteils positiv, mit einer Gesamtbewertung von 4,9 Sternen bei 70 Bewertungen. Allerdings gibt es eine jüngste 1-Stern-Bewertung, die auf mögliche Probleme mit der Frische der Produkte hinweist.</p><p>Es ist anzumerken, dass in den verfügbaren Daten lediglich ein einziger Kontrollbericht seit der Gründung im Jahr 2021 vorliegt, was darauf hinweisen könnte, dass möglicherweise Daten fehlen. Entweder wurden die Daten nicht in das System übertragen oder eine regelmäßigere Überwachung ist erforderlich.</p><p>Insgesamt zeigt die KI-Analyse, dass die öffentliche Wahrnehmung der Bäckerei \"Kornblume\" positiv ist, jedoch Mängel existieren, die behoben werden müssen. Es wird empfohlen, regelmäßige interne Überprüfungen einzuführen. Die Prognose für die Hygienesituation hängt von der schnellen Umsetzung der erforderlichen Maßnahmen ab. Bei erfolgreicher Umsetzung sollte eine Verbesserung der Bewertung erwartet werden.</p></div>",
+      "Gewichtung": [50, 30, 20],
+      "Labels": ["Kontrollbericht vom 03.05.2018", "Kontrollbericht vom 02.08.2018", "Gewerbeanmeldedaten", "Beschwerde aus der Bevölkerung", "Online-Bewertungen & -Beschwerden"],
+      "DatensatzGesamt": {
+        "Betrieb": "Bäckerei Kornblume",
+        "buttonText": "Übersicht der Datengewichtung",
+        "GesamtRisikoWert": "4.7",
+        "EinzelRisikoWert": ["5.5","4.3","3.2"],
+        "dropdownText":
+          {
+            "Text1": "Die statistischen Daten zeigen in letzter Zeit eine erhöhte Fluktuation im Personalbestand des Betriebs, mit mehreren An- und Abmeldungen von Mitarbeitern, was auf einen signifikanten Personalwechsel hindeutet und möglicherweise zu Herausforderungen in der Betriebsführung führt. Aufgrund des häufigen Personalwechsels waren HACCP-Konzept Schulungen möglicherweise erschwert oder konnten gar nicht umgesetzt werden.",
+            "Text2": " Betriebskontrolle in den letzten 12 Monaten",
+            "Text3": "1 Rezenssion von Bewertungsportalen und Social Media",
+            "Text4": "Gewerbeanmeldedaten"
+          }
+        
+      },
+      "Datensaetze": [
+        {
+          "buttonText": "Kontrollbericht vom 12.08.2023",
+          "Datenquelle": "Kontrollbericht vom 12.08.2023",
+          "IndividualRiskScore": "8.1",
+          "Standardexpertenwertung": "sehr hoch",
+          "QuellenText1": "Kontrollzweck: planmäßige Routinekontrolle am 12.08.2023.",
+          "QuellenText2": "Betriebsstätte (allgemein):",
+          "QuellenText3": "Es wurden keine ständigen Verfahren, die auf den HACCP-Grundsätzen beruhen, eingerichtet, durchgeführt und aufrechtgehalten.",
+          "QuellenText4": "Anordnung zur Implementierung eines vollständigen HACCP-Konzepts ",
+          "QuellenText5": "Küche:",
+          "QuellenText6": "Fehlendes Thermometer für Temperaturüberwachung im Kühlschrank",
+          "QuellenText7": "Anordnung zur Anschaffung eines Thermometers",
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Gewerbeanmeldedaten",
+          "Datenquelle": "Gewerbeanmeldung",
+          "IndividualRiskScore": "5.6",
+          "Standardexpertenwertung": "mittel",
+          "QuellenText1": "Anmeldung erfolgte am 30.03.2021",
+          "QuellenText2": "Bäckereihandwerk & Verkauf:",
+          "QuellenText3": "Herstellung & Verkauf von Backwaren, Kuchen, Snacks und Getränken",
+          "QuellenText4": "Verzehr auch vor Ort",
+          "QuellenText5": null,
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Online-Bewertungen & -Beschwerden",
+          "Datenquelle": "diverser Online-Bewertungen & -Beschwerden",
+          "IndividualRiskScore": "4.5",
+          "Standardexpertenwertung": "niedrig",
+          "QuellenText1": "Es wurden keine anonyme Bewertungen auf Facebook, Google und Yelp gefunden.",
+          "QuellenText2": "Kriti an zu trockenen Brötchen",
+          "QuellenText3": "",
+          "QuellenText4": null,
+          "QuellenText5": null,
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        }
+        
+      ],
+      "AllData": [
+        
+        {
+          "Datenquelle": "Datenquelle: Betriebskontrolle",
+          "DatenquelleSummery": "<div> <p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p> <h4>Kontrollbericht Nr. 1</h4> <p><strong>Betrieb:</strong> B\u00e4ckerei Kornblume</p> <p><strong>Kontrolldatum:</strong> 12.08.2023</p> <p><strong>Kontrollobjekt:</strong> ID-1264-KL</p> <p><strong>Kontrollzweck:</strong> planm\u00e4\u00dfige Routinekontrolle</p> <p><strong>Kontrollierte R\u00e4ume/Bereiche:</strong> Betriebsst\u00e4tte (allgemein), K\u00fcche, Verkaufsraum</p> <p><strong>Nicht kontrollierte R\u00e4ume/ Bereiche:</strong> Umkleideraum, Personaltoilette</p> <p><strong>HACCP-Konzept:</strong> teilweise umgesetzt</p> <ul> <li>Es fehlten: Kennzeichnung/Aufmachung; Sch\u00e4dlingsbek\u00e4mpfung; Dokumentation</li> </ul> <h5><strong>Feststellungen:</strong></h5> <p><strong>Betriebsst\u00e4tte (allgemein):</strong></p> <ul> <li> <p><strong>Feststellung:</strong> Es wurden keine st\u00e4ndigen Verfahren, die auf den HACCP-Grunds\u00e4tzen beruhen, eingerichtet, durchgef\u00fchrt und aufrechtgehalten. HACCP-Grunds\u00e4tze wurden aufgez\u00e4hlt</p> <p><strong>Anordnung:</strong> Es sind ein oder mehrere st\u00e4ndige Verfahren, die auf den HACCP-Grunds\u00e4tzen beruhen, einzurichten, durchzuf\u00fchren und aufrechtzuerhalten. HACCP-Grunds\u00e4tze Grunds\u00e4tze wurden aufgez\u00e4hlt.</p> </li> <li> <p><strong>Feststellung:</strong> Es wurden vorverpackte Lebensmittel abgegeben, die nicht mit s\u00e4mtlichen verpflichtenden Angaben gekennzeichnet waren. Im folgenden wurden die die erforderlichen Kennzeichnungen f\u00fcr Lebensmittel in Fertigpackungen auf, wie Zutaten, Allergene, Herstellerdaten, Haltbarkeitsdatum, Ursprungsland und N\u00e4hrwerte. Aufgelistet.</p> <p><strong>Anordnung:</strong> Der Anordnung beschreibt die verpflichtenden Kennzeichnungsanforderungen f\u00fcr Lebensmittel in Fertigpackungen, einschlie\u00dflich Informationen \u00fcber Zutaten, Allergene, Hersteller und N\u00e4hrwerte.</p> </li> </ul> <p><strong>K\u00fcche:</strong></p> <ul> <li> <p><strong>Feststellung:</strong> Im K\u00fchlschrank fehlte zur Temperatur\u00fcberwachung das erforderliche Thermometer.</p> <p><strong>Anordnung:</strong> Eine Temperatur\u00fcberwachung im K\u00fchlschrank ist zu gew\u00e4hrleisten.</p> </li> </ul> <p><strong>Weitere Informationen:</strong></p> <ul> <li>Merkbl\u00e4tter wurden ausgeh\u00e4ndigt ☑</li> </ul> </div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "bäckerKontrolle1.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle: Gewerbeanmeldedaten",
+          "DatenquelleSummery": "<div>\n    <p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p>\n  \n    <h5>Zusammenfassung der Gewerbeanmeldung für Bäckerei „Kornblume“</h5>\n    <ul>\n        <li><strong>Name des Unternehmens:</strong> Bäckerei Kornblume</li>\n        <li><strong>Betriebsinhaber:</strong> Johann Müller</li>\n        <li><strong>Telefon:</strong> 0431 5678901</li>\n        <li><strong>Handy:</strong> 0171 2345678</li>\n        <li><strong>Betriebsadresse:</strong> Gaardener Straße 8, 24143 Kiel</li>\n    </ul>\n  \n    <p><strong>Betriebsinformationen:</strong></p>\n    <ul>\n        <li><strong>Art des Betriebs:</strong> Handwerk (Bäckerei)</li>\n        <li><strong>Tätigkeit:</strong> Herstellung und Verkauf von Backwaren, Kuchen und Snacks; Betrieb einer Bäckereifiliale</li>\n        <li><strong>Beginn:</strong> 30.03.2021</li>\n        <li><strong>Mitarbeiter:</strong> 4 Vollzeit, 2 Teilzeit (ohne Inhaber)</li>\n    </ul>\n</div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "bäckerGewerbe.jpeg",
+              "isEnlarged": false
+            }
+          ]        
+        },
+        {
+          "Datenquelle": "Datenquelle: Online-Bewertungen & -Beschwerden",
+          "DatenquelleSummery": "<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h5>Zusammenfassung der Bewertung für Bäckerei \"Kornblume\":</h5><ul><li><p><strong>Schlechte Bewertung #1 (1 von 5 Sternen):</strong> Die Kundenerfahrung war negativ. Hauptkritikpunkt waren Brötchen, die um 9 Uhr bereits so wirkten, als wären sie vom Vortag und damit nicht frisch.</p></li></ul><p>Es gab keine weiteren Rezensionen oder Beschwerden über die Bäckerei \"Kornblume\" auf Social-Media-Kanälen.</p></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "bäckerOnline.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        }
+      ],
+      "Datenqualität": {
+
+        "Vollständigkeit": "Nach sorgfältiger Überprüfung aller relevanten Informationen und Quellen lässt sich feststellen, dass die Datenlage als umfassend und vollständig betrachtet werden kann, was eine solide Grundlage für weitere Analysen bietet.",
+        "Genauigkeit": "Die Analyse der Kundenfeedbacks hat eine Übereinstimmung aufgezeigt: Einige wenige negative Kundenbewertungen spiegeln sich konsistent in den Ergebnissen der Kontrollberichte wider. Dies deutet auf eine hohe Genauigkeit und Verlässlichkeit der Daten hin.",
+        "Zuverlässigkeit": "Bei der Beurteilung der Zuverlässigkeit der Datenquellen „Onlinebewertungen“ und „Beschwerden aus der Bevölkerung“ bestehen gewisse Unsicherheiten. Diese Quellen können subjektiven Verzerrungen unterliegen, was die Konsistenz und Verlässlichkeit der Daten potenziell beeinträchtigt.",
+        "Aktualität": "Ein bedeutsames Problem zeigt sich in der Aktualität der Daten, da der jüngste verfügbare Kontrollbericht aus dem Jahr 2021 stammt. Diese Lücke im Datenaufkommen könnte schwerwiegende Mängel im Kontrollsystem aufzeigen. Die fehlenden aktuellen Daten könnten dazu führen, dass wichtige, jüngste Veränderungen und Probleme unentdeckt bleiben.",
+        "VollständigkeitColor": "#41b783",
+        "GenauigkeitColor": "#41b783",
+        "ZuverlässigkeitColor": "#fdd31b",
+        "AktualitätColor": "#ED1313",
+        "GesamtColor": "#fdd31b"
+
+      }
+    },
+    {
+      "ID": "02",
+      "Betrieb": "Döner & More",
+      "Adresse": "Gaadener Straße 15, 24143 Kiel",
+      "Telefon": "0431 12345678",
+      "Ansprechperson": "Celal Sahin",
+      "Spalte1": "Ein Wert",
+      "Spalte2": "Ein Wert",
+      "Spalte3": "Ein Wert",
+      "Value": "?",
+      "Summary": "<p>Die Analyse des Betriebs \"Döner & More\" basierend auf verfügbaren Daten ergibt folgendes Bild: Die Datenquellen wurden entsprechend gewichtet, wobei Gewerbeanmeldungen einen Anteil von 30%, behördlichen Kontrollberichte 50% und Onlinebewertungen 20% ausmachten.</p><p>Beachtenswert sind die behördlichen Kontrollberichte, die zahlreiche Mängel aufdecken, darunter falsche Lagerung der Dönerspieße auf dem Boden, unzureichende Kennzeichnung von Zusatzstoffen, lückenhafte Dokumentation von Reinigungsintervallen und das Fehlen eines HACCP-Konzepts. Dies führt zu einer erheblichen Abwertung der Risikobewertung.</p><p>Die Gewerbeanmeldung zeigt, dass der Betrieb seit 2016 betrieben wird und zwei Vollzeitmitarbeiter beschäftigt. Angesichts der Öffnungszeiten deutet dies auf eine überlastete Betriebsstruktur hin, die möglicherweise zu den festgestellten Hygienemängeln führt, da das Personal unter Zeitdruck steht und nicht ausreichend Zeit für die Einhaltung der Hygienevorschriften hat.</p><p>Obwohl die Onlinebewertungen größtenteils positiv sind und eine Gesamtbewertung von 4,7 aufweisen, gibt es aktuelle negative Bewertungen, die Hygieneprobleme wie verdorbenen Reis hervorheben. Diese Berichte korrelieren mit den Beobachtungen aus den behördlichen Kontrollberichten und stärken die Glaubwürdigkeit der Kritik.</p><p>Zusammenfassend führen die gravierenden Hygienemängel in den Kontrollberichten in Verbindung mit den negativen Onlinebewertungen zu einer unterdurchschnittlichen Gesamtbewertung für \"Döner & More\". Die Prognose zeigt, dass sich die Situation ohne geeignete Maßnahmen verschlechtern könnte. Die Gesamtbewertung wird derzeit als \"befriedigend\" mit Tendenz zu \"mangelhaft\" eingestuft, sollten keine Verbesserungen erfolgen. Dies unterstreicht die Notwendigkeit den Betrieb zeitnah zu kontrollieren. Die Transparenz des KI-Entscheidungsprozesses wird durch die hohe Datenqualität der verwendeten Datenquellen und den daraus gezogenen Schlüssen gewährleistet.</p>",
+      "Gewichtung": [30, 30, 15, 15, 10],
+      "Labels": ["Kontrollbericht vom 14.04.2023", "Kontrollbericht vom 07.06.2023", "Gewerbeanmeldedaten", "Online-Bewertungen & -Beschwerden"],
+      "DatensatzGesamt": {
+        "Betrieb": "Döner & More",
+        "buttonText": "Übersicht der Datengewichtung",
+        "GesamtRisikoWert": "?",
+        "EinzelRisikoWert": ["?","?","?","?"],
+        "dropdownText":
+          {
+            "Text1": "Aus allgemeinen statistischen Daten anderer Betriebe konnte Zusammenhang zwischen den festgestellten Mängeln, der Anzahl der Mitarbeiter und den im Internet angegebenen Öffnungszeiten geschlossen werden. Möglicherweise liegt eine Überlastung der Mitarbeiter vor, die zu den festgestellten Mängeln führt.",
+            "Text2": "2 Betriebskontrollen aus den letzten 12 Monaten",
+            "Text3": "mehrere Rezenssionen von Bewertungsportalen und Social Media",
+            "Text4": "Gewerbeanmeldedaten"
+          }
+        
+      },
+      "Datensaetze": [
+        {
+          "buttonText": "Kontrollbericht vom 14.04.2023",
+          "Datenquelle": "Kontrollbericht vom 14.04.2023",
+          "IndividualRiskScore": "8.1",
+          "Standardexpertenwertung": "sehr hoch",
+          "QuellenText1": "Kontrollzweck: planmäßige Routinekontrolle am 14.04.2023",
+          "QuellenText2": "Betriebsstätte (allgemein):",
+          "QuellenText3": "Lebensmittel wurden ohne Kennzeichnung der verwendeten kennzeichnungspflichtigen Zusatzstoffe in Speise- und Getränkekarten oder Preisverzeichnissen vertrieben.",
+          "QuellenText4": "Anordnung einer Verbesserung der Kennzeichnung",
+          "QuellenText5": "Es fehlte eine lückenlose Dokumentation der Reinigungsprozesse",
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Kontrollbericht vom 07.06.2023",
+          "Datenquelle": "Kontrollbericht vom 07.06.2023",
+          "IndividualRiskScore": "7.7",
+          "Standardexpertenwertung": "sehr hoch",
+          "QuellenText1": "Kontrollzweck: planmäßige Routinekontrolle am 07.06.2023",
+          "QuellenText2": "Betriebsstätte (allgemein) und Küche:",
+          "QuellenText3": "Unsachgemäße Lagerung von Lebensmitteln",
+          "QuellenText4": "Zum wiederholten Male kein ausreichendes HACCP-Konzept vorhanden",
+          "QuellenText5": "Vorlage eines HACCP-Konzept wurde angeordnet",
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Gewerbeanmeldedaten",
+          "Datenquelle": "Gewerbeanmeldung",
+          "IndividualRiskScore": "5.6",
+          "Standardexpertenwertung": "mittel",
+          "QuellenText1": "Anmeldung erfolgte am 15.05.2016",
+          "QuellenText2": "Gastronomiebetrieb",
+          "QuellenText3": "Verarbeitung von verdeblichen Lebensmitteln",
+          "QuellenText4": "Herstellung und Verkauf von Fleisch vom Spieß sowie anderen Gerichten",
+          "QuellenText5": null,
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Online-Bewertungen & -Beschwerden",
+          "Datenquelle": "diverser Online-Bewertungen & -Beschwerden",
+          "IndividualRiskScore": "4.5",
+          "Standardexpertenwertung": "niedrig",
+          "QuellenText1": "Es wurden anonyme Bewertungen auf Facebook, Google und Yelp gefunden.",
+          "QuellenText2": "Möglicher Betrug bei Qualität der Pizza:",
+          "QuellenText3": "Die Pizza kam kalt an, hatte wenig Belag und war nicht frisch.",
+          "QuellenText4": "Kundenservice: Der Kunde wurde am Telefon abgewimmelt, als er versuchte, das Problem zu melden.",
+          "QuellenText5": "Preis-Leistungs-Verhältnis wird mehrmals bemängelt.",
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        }
+        
+      ],
+      "AllData": [
+        
+        {
+          "Datenquelle": "Datenquelle Betriebskontrolle Nr.1",
+          "DatenquelleSummery":"<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h4>Kontrollbericht Nr. 1</h4><p><strong>Kontrolldatum:</strong> 14.04.2023</p><p><strong>Kontrollobjekt:</strong> ID-4560-KL</p><p><strong>Betrieb:</strong> Döner & More</p><p><strong>Kontrollzweck:</strong> planmäßige Routinekontrolle</p><p><strong>Kontrollierte Räume/Bereiche:</strong> Betriebsstätte (allgemein)</p><p><strong>Nicht kontrollierte Räume/Bereiche:</strong> -</p><p><strong>HACCP-Konzept:</strong> es war kein Konzept vorhanden</p><h5><strong>Feststellungen:</strong></h5><ul><li><p><strong>Feststellung:</strong> Lebensmittel wurden ohne Kennzeichnung der verwendeten Zusatzstoffe in der Speise- und Getränkekarte oder im Preisverzeichnis in den Verkehr gebracht.</p><p><strong>Anordnung:</strong> Kennzeichnungspflichtige Zusatzstoffe in Lebensmitteln müssen in der Speise- und Getränkekarte oder im Preisverzeichnis, entweder direkt bei der Lebensmittelbezeichnung oder in deutlich hervorgehobenen Fuß- oder Endnoten, angegeben werden.</p></li><li><p><strong>Feststellung:</strong> Fehlende Dokumentation für Reinigungsintervalle.</p><p><strong>Anordnung:</strong> Eine lückenlose Dokumentation über Reinigungsprozesse ist zu führen.</p></li></ul><p><strong>Weitere Informationen:</strong></p><ul><li>Lichtbilder wurden angefertigt & Probe wurden entnommen ☑</li><li>Die Beseitigung vorgenannter Mängel ist der Überwachungsbehörde Stadt Kiel bis zum 24.04.2022 schriftlich anzuzeigen. Andernfalls erfolgt eine kostenpflichtige Nachkontrolle. ☑</li></ul></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "dönerKontrolle1.jpeg",
+              "isEnlarged": false
+            }
+          ]        
+        },
+        {
+          "Datenquelle": "Datenquelle Betriebskontrolle Nr.2",
+          "DatenquelleSummery":"<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h4>Kontrollbericht Nr. 2</h4><p><strong>Betrieb:</strong> Döner & More</p><p><strong>Kontrolldatum:</strong> 07.06.2023</p><p><strong>Kontrollobjekt:</strong> ID-4560-KL</p><p><strong>Kontrollzweck:</strong> planmäßige Routinekontrolle</p><p><strong>Kontrollierte Räume/Bereiche:</strong> Betriebsstätte (allgemein)</p><p><strong>Nicht kontrollierte Räume/Bereiche:</strong> Mitarbeitertoiletten</p><p><strong>HACCP-Konzept:</strong> es war kein Konzept vorhanden</p><h5><strong>Feststellungen:</strong></h5><ul><li><p><strong>Küche:</strong></p><ul><li><p><strong>Feststellung:</strong> Unsachgemäße Lagerung von Lebensmitteln. Diverses Material (u.a. Putzlappen) mit den Drehspießen auf dem Fußboden.</p><p><strong>Frist:</strong> unverzüglich</p></li></ul></li><li><p><strong>Betriebsstätte (allgemein):</strong></p><ul><li><p><strong>Feststellung:</strong> Zum wiederholten Male kein ausreichendes HACCP-Konzept vorhanden.</p><p><strong>Anordnung:</strong> Es ist zeitnah ein HACCP-Konzept zu konzipieren und vorzulegen.</p></li></ul></li></ul><p><strong>Weitere Informationen:</strong></p><ul><li>Lichtbilder wurden angefertigt ☑</li><li>Die Beseitigung vorgenannter Mängel ist der Überwachungsbehörde Kiel bis zum 27.06.2023 schriftlich anzuzeigen. ☑</li></ul></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "dönerKontrolle2.jpeg",
+              "isEnlarged": false
+            }
+          ]        
+        },
+        {
+          "Datenquelle": "Datenquelle Gewerbeanmeldedaten",
+          "DatenquelleSummery": "<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h5>Zusammenfassung der Gewerbeanmeldung für „Döner & More“</h5><ul><li><strong>Name des Unternehmens:</strong> Döner & More</li><li><strong>Betriebsinhaber:</strong> Celal Sahin</li><li><strong>Telefon:</strong> 0431 12345678</li><li><strong>Handy:</strong> 0176 987654321</li><li><strong>Betriebsadresse:</strong> Am Kai 16, 24143 Kiel</li></ul><h6><strong>Betriebsinformationen:</strong></h6><ul><li><strong>Tätigkeit:</strong> Herstellung und Verkauf von Döner Kebab sowie anderen türkischen Spezialitäten; Gastronomiebetrieb</li><li><strong>Art des Betriebs:</strong> Gastronomie</li><li><strong>Beginn:</strong> 15.05.2016</li><li><strong>Mitarbeiter:</strong> 2 Vollzeit (ohne Inhaber)</li></ul></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "dönerGewerbe.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle: Online-Bewertungen & -Beschwerden",
+          "DatenquelleSummery": "<div>\n    <p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle.\n    Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p>\n  \n    <h5>Zusammenfassung der Bewertungen für Imbiss \"Döner & More\":</h5>\n    <ul>\n      <li>\n        <p><strong>Schlechte Bewertung #1 (1 von 5 Sternen):</strong> Negative Erfahrung mit einem Dönerteller mit Reis. Der Kunde beschrieb einen unangenehmen Geruch und verdorbenen Geschmack des Reises, was eine Nicht-Empfehlung des Imbisses zur Folge hatte.</p>\n      </li>\n      <li>\n        <p><strong>Bewertung #2 (1 von 5 Sternen):</strong> Enttäuschung über einen trockenen Döner, trotz mehrmaliger Bitte, diesen nicht trocken zu servieren. Der Geschmack wurde als unbefriedigend beschrieben, was zu einer Nicht-Empfehlung führte.</p>\n      </li>\n      <li>\n        <p><strong>Mittelmäßige Bewertung #3 (2 von 5 Sternen):</strong> Der Kunde hatte noch nicht im Imbiss gegessen, äußerte aber Bedenken wegen eines Dönerspießes, der offenbar vom Vortag stammte. Es wurde kritisiert, dass der Spieß wiederverwendet wurde und vorgeschlagen, überschüssiges Essen zu spenden.</p>\n      </li>\n    </ul>\n  \n    <p>Es gab keine weiteren Rezensionen oder Beschwerden über \"Döner & More\" auf Social-Media-Kanälen.</p>\n  </div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "dönerOnline.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        }
+      ],
+      "Datenqualität": {
+
+        "Vollständigkeit": "Nach sorgfältiger Überprüfung aller relevanten Informationen und Quellen lässt sich feststellen, dass die Datenlage als umfassend und vollständig betrachtet werden kann, was eine solide Grundlage für weitere Analysen bietet.",
+        "Genauigkeit": "Die Analyse der Kundenfeedbacks hat eine Übereinstimmung aufgezeigt: Einige wenige negative Kundenbewertungen spiegeln sich konsistent in den Ergebnissen der Kontrollberichte wider. Dies deutet auf eine hohe Genauigkeit und Verlässlichkeit der Daten hin.",
+        "Zuverlässigkeit": "Bei der Beurteilung der Zuverlässigkeit der Datenquellen „Onlinebewertungen“ und „Beschwerden aus der Bevölkerung“ bestehen gewisse Unsicherheiten. Diese Quellen können subjektiven Verzerrungen unterliegen, was die Konsistenz und Verlässlichkeit der Daten potenziell beeinträchtigt.",
+        "Aktualität": "Bei der Überprüfung der Datenbestände zeigt sich, dass sie bis zum heutigen Tag auf dem neuesten Stand sind. Die Informationen wurden regelmäßig und zeitnah aktualisiert, was sicherstellt, dass die Daten aktuell und für die momentane Verwendung relevant sind.",
+        "VollständigkeitColor": "#41b783",
+        "GenauigkeitColor": "#41b783",
+        "ZuverlässigkeitColor": "#fdd31b",
+        "AktualitätColor": "#41b783",
+        "GesamtColor": "#41b783"
+
+      }
+    },
+    {
+      "ID": "05",
+      "Betrieb": "Kiosk 24",
+      "Adresse": "Gausstraße 23, 24143 Kiel",
+      "Telefon": "0431 5566778",
+      "Ansprechperson": "Tomas Popescu",
+      "Spalte1": "Ein Wert",
+      "Spalte2": "Ein Wert",
+      "Spalte3": "Ein Wert",
+      "Value": "2.3",
+      "Summary": "<div><p>Die Datenanalysen des erst am 15. Oktober 2023 gegründeten Betriebs bietet eine erste Einschätzung der aktuellen Betriebssituation und möglichen Risikofaktoren. Es liegen bisher kein Kontrollberichte zu dem Betrieb vor. Dieser Umstand muss bei der Bewertung berücksichtigt werden.</p><p>Der Betrieb ist als Kiosk klassifiziert. Aus den Gewerbeanmeldedaten geht hervor, dass keine frischen Lebensmittel verkauft werden.</p><p>Onlinebewertungen existieren zwar, bieten jedoch keine für die Analyse relevanten Informationen. Sie liefern keine detaillierten Einblicke in die Betriebsabläufe oder die Produktqualität.</p><p>Diese Information führt zu einer vorläufigen Einschätzung des Risikos als niedrig. Eine präzisere Risikobewertung kann erst nach einer persönlichen Erstkontrolle des Betriebs erfolgen.</p></div>",
+      "Gewichtung": [90, 10],
+      "Labels": ["Gewerbeanmeldedaten", "Online-Bewertungen & -Beschwerden"],
+      "DatensatzGesamt": {
+        "Betrieb": "Kiosk 24",
+        "buttonText": "Übersicht der Datengewichtung",
+        "GesamtRisikoWert": "2.3",
+        "EinzelRisikoWert": ["2.5","1.9"],
+        "dropdownText":
+          {
+            "Text1": "Durch Auswertung statistischer Daten zu anderen Betrieben dieser Art, kann das Risiko als niedrig eingestuft werden. Eine genaue Aussage ist erst möglich, wenn Daten zu diesem spezifischen Betrieb vorliegen.",
+            "Text2": "es liegen bisher keine Betriebskontrollen vor",
+            "Text3": "Gewerbeanmeldedaten",
+            "Text4": "wenige irrelevante Online-Rezensionen"
+          }
+        
+      },
+      "Datensaetze": [
+        {
+          "buttonText": "Gewerbeanmeldedaten",
+          "Datenquelle": "Gewerbeanmeldung",
+          "IndividualRiskScore": "5.6",
+          "Standardexpertenwertung": "mittel",
+          "QuellenText1": "Anmeldung erfolgte am 15.10.2023",
+          "QuellenText2": "Kiosk:",
+          "QuellenText3": "Verkauf von Tabakwaren, Zeitschriften, Getränken,",
+          "QuellenText4": "Snacks und kleineren Haushaltswaren",
+          "QuellenText5": null,
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        },
+        {
+          "buttonText": "Online-Bewertungen & -Beschwerden",
+          "Datenquelle": "diverser Online-Bewertungen & -Beschwerden",
+          "IndividualRiskScore": "4.5",
+          "Standardexpertenwertung": "niedrig",
+          "QuellenText1": null,
+          "QuellenText2": "Es wurden keine relevanten Bewertungen auf Social Media, Google und Yelp gefunden.",
+          "QuellenText3": "wenige positive Bewertungen auf Google gefunden",
+          "QuellenText4": null,
+          "QuellenText5": null,
+          "QuellenText6": null,
+          "QuellenText7": null,
+          "QuellenText8": null
+        }
+        
+      ],
+      "AllData": [
+        {
+          "Datenquelle": "Datenquelle Gewerbeanmeldedaten",
+          "DatenquelleSummery": "<div> <p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p> <h5>Zusammenfassung der Gewerbeanmeldung für &bdquo;Kiosk 24&ldquo;</h5> <ul> <li><strong>Name des Unternehmens:</strong> Kiosk 24</li> <li><strong>Betriebsinhaber:</strong> Tomas Popescu</li> <li><strong>Handy:</strong> 0170 1122334</li> <li><strong>Betriebsadresse:</strong> Gausstraße 23, 24143 Kiel</li> </ul> <p><strong>Betriebsinformationen:</strong></p> <ul> <li><strong>Tätigkeit:</strong> Verkauf von Tabakwaren, Zeitschriften, Getränken, Snacks und kleineren Haushaltswaren</li> <li><strong>Art des Betriebs:</strong> Einzelhandel</li> <li><strong>Beginn:</strong> 15.10.2023</li> <li><strong>Mitarbeiter:</strong> 2 Teilzeit (ohne Inhaber)</li> </ul> </div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "kioskGewerbe.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        },
+        {
+          "Datenquelle": "Datenquelle: Online-Bewertungen & -Beschwerden",
+          "DatenquelleSummery": "<div><p>Das ist eine vom System erstellte Zusammenfassung der Datenquelle. Die Originalquelle befindet sich am Ende dieser Zusammenfassung.</p><h5>Zusammenfassung der Bewertung auf Bewertung f\u00fcr \"Kiosk 24\":</h5><ul><li><p>Es wurden keine relevanten Rezensionen oder Beschwerden auf Bewertungsportalen gefunden. Bisher gibt es nur wenige positive Bewertungen. Gesamtbewertung bei Google: 4,5 bei 10 Rezensionen.</p></li></ul><p>Es gab keine Rezensionen oder Beschwerden \u00fcber den Fischhandel Meeresbriese auf Social-Media-Kan\u00e4len.</p></div>",
+          "scans": [
+            {
+              "id": 1,
+              "imageSrc": "kioskOnline.jpeg",
+              "isEnlarged": false
+            }
+          ]
+        }
+      ],
+      "Datenqualität": {
+
+        "Vollständigkeit": "Im Kontext der Datenvollständigkeit für den kürzlich eröffneten Betrieb sind momentan lediglich die Gewerbeanmeldedaten verfügbar. Angesichts der Tatsache, dass die Betriebseröffnung erst vor kurzem erfolgte, wird das Fehlen von Kontrollberichten als akzeptabel bewertet.",
+        "Genauigkeit": "Es liegen zu wenig Daten vor für eine Beurteilung der Genauigkeit.",
+        "Zuverlässigkeit": "Zur Zeit liegen keine Gründe für einen Zweiifel an der Zuverlässigkeit der Daten vor.",
+        "Aktualität": "Die Daten sind auf dem neuesten Stand.",
+        "VollständigkeitColor": "#41b783",
+        "GenauigkeitColor": "#fdd31b",
+        "ZuverlässigkeitColor": "#41b783",
+        "AktualitätColor": "#41b783",
+        "GesamtColor": "#41b783"
+
+      }
+    }
+]
