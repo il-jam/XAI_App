@@ -1,0 +1,14 @@
+body {
+    font-family: "Roboto", sans-serif !important;
+    background-color: rgb(231, 231, 231); /* Hier legen Sie die Hintergrundfarbe auf Grau fest */
+    width: 100%; /* Hier können Sie die Breite des Elements anpassen */
+    height: 100%; /* Hier können Sie die Höhe des Elements anpassen */
+    padding: 0px; /* Hier können Sie den Innenabstand anpassen */
+    font-size: 16px;
+    color:  rgb(51, 51, 51);
+}
+
+hr {
+    color: rgb(122, 122, 122);
+}
+
